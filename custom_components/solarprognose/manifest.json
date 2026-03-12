@@ -1,0 +1,12 @@
+{
+  "domain": "solarprognose",
+  "name": "Solarprognose.de",
+  "codeowners": ["@dein_github_name"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/dein_github_name/dein_repo_name",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp"],
+  "version": "1.0.0"
+}
