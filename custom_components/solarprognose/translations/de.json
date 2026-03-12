@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Solarprognose einrichten",
+        "data": {
+          "name": "Eigener Name (z.B. Ost, West)",
+          "access_token": "API Access Token",
+          "project": "Projekt / E-Mail-Adresse",
+          "item_type": "Typ (Anlage / Wechselrichter / Modulfeld)",
+          "item_id": "ID (z.B. 7302)"
+        }
+      }
+    }
+  }
+}
